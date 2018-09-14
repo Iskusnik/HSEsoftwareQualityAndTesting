@@ -52,7 +52,6 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="MyMathsTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ArrayControlTests.cs" />
   </ItemGroup>

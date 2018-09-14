@@ -24,7 +24,7 @@ namespace HSESoftwareQualityAndTesting
             string[] arrayElements = array.Split(',');
 
             //Инициализируем выходной параметр
-            int resultLength = (int)Math.Round((double)arrayElements.Length / 2.0);
+            int resultLength = (int)Math.Round((double)(arrayElements.Length + 0.1) / 2.0);
             string[] result = new string[resultLength];
 
             //Оставляем каждый первый элемент (таким образом удаляем каждый второй)
