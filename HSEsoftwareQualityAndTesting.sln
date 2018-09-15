@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSESoftwareQualityAndTesting", "HSEsoftwareQualityAndTesting\HSESoftwareQualityAndTesting.csproj", "{D5877190-9592-41D5-A7D2-DA88DB87B089}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSESoftwareQualityAndTesting.Tests", "HSEsfqaTests\HSESoftwareQualityAndTesting.Tests.csproj", "{0F05D204-A139-47E0-A2F0-7AEB67486D15}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSESoftwareQualityAndTesting.Tests", "HSESoftwareQualityAndTestingTests\HSESoftwareQualityAndTesting.Tests.csproj", "{0F05D204-A139-47E0-A2F0-7AEB67486D15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
