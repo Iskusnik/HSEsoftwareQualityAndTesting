@@ -55,6 +55,7 @@
     <Compile Include="MyMathTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ArrayControlTests.cs" />
+    <Compile Include="ChessQuestionsTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HSEsoftwareQualityAndTesting\HSESoftwareQualityAndTesting.csproj">
